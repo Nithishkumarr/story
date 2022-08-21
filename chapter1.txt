@@ -1,2 +1,1 @@
-Hi,Iam  Nithish kumar and here we will find the example of the 
-git repoetory chapter
+This is chapter 1 and we are currently in alien branch 
